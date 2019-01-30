@@ -1,16 +1,72 @@
 {
-  "pokemon": [
+  "Pokemon": [
     {
       "id": 1,
-      "name": "json-server",
-      "image": "typicode"
+      "name": "Generation 1 - Grass, Poison",
+      "image": "https://imgix.ranker.com/user_node_img/33/642088/original/bulbasaur-photo-u26?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg"
     }
   ],
-  "comments": [
+  "Ivysaur": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 2,
+      "name": "Generation 1 - Grass, Poison",
+      "image": "https://imgix.ranker.com/node_img/63/1246838/original/ivysaur-fictional-characters-photo-1?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg"
+    }
+  ],
+  "Venusaur": [
+    {
+      "id": 3,
+      "name": "Generation 1 - Grass, Poison",
+      "image": "https://imgix.ranker.com/node_img/3181/63618159/original/venusaur-fictional-characters-photo-1?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg"
+    }
+  ],
+  "Charmander": [
+    {
+      "id": 4,
+      "name": "Generation 1 - Fire",
+      "image": "https://imgix.ranker.com/node_img/3181/63617521/original/charmander-photo-1?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg"
+    }
+  ],
+  "Charmeleon": [
+    {
+      "id": 5,
+      "name": "Generation 1 - Fire",
+      "image": "https://imgix.ranker.com/user_node_img/3181/63617277/original/charmeleon-fictional-characters-photo-u1?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg"
+    }
+  ],
+  "Charizard": [
+    {
+      "id": 6,
+      "name": "Generation 4 - Fire, Flying",
+      "image": "https://imgix.ranker.com/node_img/36/700363/original/charizard-film-characters-photo-1?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg"
+    }
+  ],
+  "Squirtle": [
+    {
+      "id": 7,
+      "name": "Generation 1 - Water",
+      "image": "https://imgix.ranker.com/user_node_img/3683/73641094/original/wartortle-fictional-characters-photo-u1?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg"
+    }
+  ],
+  "Wartortle": [
+    {
+      "id": 8,
+      "name": "Generation 1 - Water",
+      "image": "https://imgix.ranker.com/user_node_img/3181/63618188/original/blastoise-fictional-characters-photo-u1?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg"
+    }
+  ],
+  "Blastoise": [
+    {
+      "id": 9,
+      "name": "Generation 1 - Water",
+      "image": "https://imgix.ranker.com/user_node_img/3181/63618188/original/blastoise-fictional-characters-photo-u1?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg"
+    }
+  ],
+  "Caterpie, Metapod, and Butterfree": [
+    {
+      "id": 10,
+      "name": "Generation 1 - Bug",
+      "image": "https://imgix.ranker.com/user_node_img/35/684205/original/caterpie-u7?w=87&h=87&fit=crop&crop=faces&q=60&fm=pjpg"
     }
   ],
   "profile": {
